@@ -1,1 +1,2 @@
-print('jakis kod")
+print('jakis kod')
+print('jakiskod')
